@@ -1,0 +1,1 @@
+This is a repository for a C++ ray tracer I built following the book [*Ray Tracing in One Weekend*](https://raytracing.github.io/) by Peter Shirley, Trevor D. Black, and Steve Hollasch. For ease of use, I used CMake.
